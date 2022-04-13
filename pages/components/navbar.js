@@ -19,7 +19,6 @@ function navbar() {
             <a href="../about" className="text-base font-medium text-gray-500 hover:text-gray-900"> About Us</a>
             <a href="../contact" className="text-base font-medium text-gray-500 hover:text-gray-900"> Contact Us </a>
 
-
       </nav>
 
       <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
